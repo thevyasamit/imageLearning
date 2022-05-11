@@ -1,0 +1,1 @@
+This repo is for image processing. I'll eventually start with Deep Learning for images as well. As of now I am trying to understand image data and how can I play around with pixels and later use them for features.
